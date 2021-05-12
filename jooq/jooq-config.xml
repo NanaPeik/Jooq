@@ -7,12 +7,8 @@
     <user>postgres</user>
     <password>postgres</password>
   </jdbc>
-
   <generator>
-
     <database>
-
-
       <!-- The database schema (or in the absence of schema support, in your RDBMS this
            can be the owner, user, database name) to be generated -->
       <inputSchema>public</inputSchema>
